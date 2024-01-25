@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470215707583",
+    "project_id": "abdukadir-6abd2",
+    "storage_bucket": "abdukadir-6abd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470215707583:android:bf501c6446485eacc6ef0a",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl7xOuN_MriRj_yiguO-THHLulx0VYRjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
